@@ -1,0 +1,16 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Jianing Li, Weimin Liu, Xiting Chen, Peng Zhao, and Junjun Pan
+
+The four CSV files in aggregate/ are licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+Full legal terms:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution: Jianing Li, Weimin Liu, Xiting Chen, Peng Zhao, and Junjun Pan,
+"Aligned Multi-View Segmentation and Image-Geometry Fusion for Multi-Task
+PitNET MRI Assessment", aggregate source data, version 0.1.0 (2026).
+
+This license does not cover patient-level records, unpublished annotations,
+trained checkpoints, or third-party datasets, none of which are included.

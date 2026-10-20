@@ -1,0 +1,16 @@
+architecture,structure,mean_dice,fold_sd,folds
+Center-slice U-Net,PA,0.801,0.013,5
+Center-slice U-Net,Right ICA,0.625,0.018,5
+Center-slice U-Net,Left ICA,0.643,0.015,5
+Stacked-slice U-Net,PA,0.820,0.011,5
+Stacked-slice U-Net,Right ICA,0.643,0.019,5
+Stacked-slice U-Net,Left ICA,0.658,0.016,5
+DeepLabV3-ResNet50,PA,0.814,0.014,5
+DeepLabV3-ResNet50,Right ICA,0.632,0.017,5
+DeepLabV3-ResNet50,Left ICA,0.647,0.014,5
+2D SwinUNETR,PA,0.834,0.010,5
+2D SwinUNETR,Right ICA,0.650,0.016,5
+2D SwinUNETR,Left ICA,0.664,0.017,5
+Aligned five-view,PA,0.850,0.010,5
+Aligned five-view,Right ICA,0.676,0.016,5
+Aligned five-view,Left ICA,0.691,0.014,5

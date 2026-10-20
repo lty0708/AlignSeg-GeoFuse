@@ -1,0 +1,22 @@
+pathway,stage,endpoint,endpoint_type,value
+Shared OOF,OOF,Knosp,QWK,0.742
+Shared OOF,OOF,Hardy,QWK,0.642
+Shared OOF,OOF,Wilson,QWK,0.701
+Shared OOF,OOF,Left invasion,AUROC,0.830
+Shared OOF,OOF,Right invasion,AUROC,0.852
+Shared OOF,OOF,Left compression,AUROC,0.786
+Shared OOF,OOF,Right compression,AUROC,0.778
+Final shared,Internal selection,Knosp,QWK,0.734
+Final shared,Internal selection,Hardy,QWK,0.600
+Final shared,Internal selection,Wilson,QWK,0.678
+Final shared,Internal selection,Left invasion,AUROC,0.872
+Final shared,Internal selection,Right invasion,AUROC,0.836
+Final shared,Internal selection,Left compression,AUROC,0.775
+Final shared,Internal selection,Right compression,AUROC,0.764
+Final shared,Frozen external,Knosp,QWK,0.648
+Final shared,Frozen external,Hardy,QWK,0.570
+Final shared,Frozen external,Wilson,QWK,0.608
+Final shared,Frozen external,Left invasion,AUROC,0.792
+Final shared,Frozen external,Right invasion,AUROC,0.853
+Final shared,Frozen external,Left compression,AUROC,0.722
+Final shared,Frozen external,Right compression,AUROC,0.776

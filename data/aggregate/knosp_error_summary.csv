@@ -1,0 +1,4 @@
+outcome,cases,percentage
+Correct prediction,284,58.1
+One-grade error,159,32.5
+Error of at least two grades,46,9.4
